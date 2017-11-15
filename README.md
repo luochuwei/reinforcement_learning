@@ -24,3 +24,7 @@
 5. [Deep Reinforcement Learning survey](https://github.com/andrewliao11/Deep-Reinforcement-Learning-Survey)
 6. [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 7. [morvanzhou reinforcement learning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
+
+```
+部分资料取自互联网，如有侵权，请联系我，立即删除
+```
